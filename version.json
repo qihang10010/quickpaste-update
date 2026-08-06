@@ -1,14 +1,14 @@
 {
   "enabled": true,
-  "latestVersion": "0.8.4",
+  "latestVersion": "0.8.5",
   "minSupportedVersion": "0.7.0",
   "forceUpgrade": false,
   "blockedVersions": [],
-  "title": "发现新版本 0.8.4",
+  "title": "发现新版本 0.8.5",
   "releaseNotes": [
-    "主界面新增批量模式",
-    "支持全选当前列表和删除勾选项",
-    "批量模式下单击历史项可勾选，不会误触发粘贴"
+    "新增单文件安装程序",
+    "主程序改为 AnyCPU，增强 Win7/Win10/Win11 兼容",
+    "安装器支持桌面快捷方式、开始菜单快捷方式和开机自启"
   ],
-  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPaste-v0.8.4-portable.zip"
+  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPasteSetup-v0.8.5.exe"
 }
