@@ -1,14 +1,14 @@
 {
   "enabled": true,
-  "latestVersion": "0.8.2",
+  "latestVersion": "0.8.3",
   "minSupportedVersion": "0.7.0",
   "forceUpgrade": false,
   "blockedVersions": [],
-  "title": "发现新版本 0.8.2",
+  "title": "发现新版本 0.8.3",
   "releaseNotes": [
-    "主面板右上角新增白天/黑暗模式快速切换",
-    "主面板新增最小化、最大化、关闭隐藏按钮",
-    "升级检测地址已接入 GitHub 公共更新源"
+    "修复 GitHub 升级检测 SSL/TLS 安全通道失败问题",
+    "升级检测请求强制启用 TLS 1.2",
+    "保留白天/黑暗模式、窗口控制和内置升级地址"
   ],
-  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPaste-v0.8.2-portable.zip"
+  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPaste-v0.8.3-portable.zip"
 }
