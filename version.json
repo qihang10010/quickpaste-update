@@ -1,14 +1,16 @@
 {
   "enabled": true,
-  "latestVersion": "0.8.5",
+  "latestVersion": "0.8.13",
   "minSupportedVersion": "0.7.0",
   "forceUpgrade": false,
   "blockedVersions": [],
-  "title": "发现新版本 0.8.5",
+  "title": "发现新版本 0.8.13",
   "releaseNotes": [
-    "新增单文件安装程序",
-    "主程序改为 AnyCPU，增强 Win7/Win10/Win11 兼容",
-    "安装器支持桌面快捷方式、开始菜单快捷方式和开机自启"
+    "新增备用下载地址，主下载不可用时可使用备用下载",
+    "图片历史标题显示图片名称，底部显示时间、尺寸和大小",
+    "双击图片可修改缓存图片的显示名称",
+    "继续优化便签、主界面和在线下载更新体验"
   ],
-  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPasteSetup-v0.8.5.exe"
+  "downloadUrl": "https://github.com/qihang10010/quickpaste-update/raw/main/QuickPasteSetup-v0.8.13.exe",
+  "backupDownloadUrl": "https://pan.quark.cn/s/49b3de517713"
 }
